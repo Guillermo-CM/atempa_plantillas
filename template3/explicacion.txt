@@ -1,0 +1,1 @@
+Simula ser la página de un juego que funciona por lobbys y que el juego se desarrolla en el panel medio y la información de PING de los jugadores a la izquierda y sus puntuaciones a la derecha

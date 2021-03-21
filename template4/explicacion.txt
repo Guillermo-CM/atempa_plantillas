@@ -1,0 +1,1 @@
+Un pequeño blog simulando ser alguien que presenta en una supuesta página llamada "Timblur" su blog de viaje.
